@@ -2,7 +2,7 @@
 # export ipod music
 #
 # Go to your ipod disk. for example F:\IPOD\iPod_control\Music\ and paste into your local drive (probably wsl does not have permissions to write or read into ipod drive). Notice that ipod_control folder is hide.
-# exp ./script.sh /mnt/c/Users/caca/Desktop/folder you pasted from ipod
+# exp ./script.sh /mnt/c/Users/caca/Desktop/folder you pasted from ipod/    ****Important "/" at the end
 #
 # Exiftool is needed
 # apt install exiftool
